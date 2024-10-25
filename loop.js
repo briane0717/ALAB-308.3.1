@@ -271,10 +271,12 @@ do {
 }
  */
 
-let num4 = 1;
+/* let num4 = 1;
 while (num4 <= 100) {
     if (num4 % 3 == 0) {
         console.log(fizz);
     }
     num4++;
-}
+} */
+
+let csv = "ID,Name,Occupation,Age\n42,Bruce,Knight,41\n57,Bob,Fry Cook,19\n63,Blaine,Quiz Master,58\n98,Bill,Doctor’s Assistant,26";
